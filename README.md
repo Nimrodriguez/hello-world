@@ -3,4 +3,4 @@ A place for ideas, resources and collaboration.
 
 Hi everyone.
 
-I'm new web designer and developer. I have an interest in front-end web development and I'm currently learning React.js
+I'm a new web designer and developer. I have an interest in front-end web development and I'm currently learning React.js
